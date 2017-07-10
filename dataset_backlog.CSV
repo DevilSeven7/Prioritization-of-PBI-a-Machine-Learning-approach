@@ -1,0 +1,151 @@
+;PRODUCT BACKLOG ITEM;NUMBER OF REVISION FOR THAT P.B.I.s;LEVEL OF REUSABILITY;LEVEL OF UNDERSTOOD;WORK TIME;TECHINICAL COMPLEXITY;LEVEL OF DEPENDENCY WITH OTHER P.B.I.s;TIME CONSTRAINT;NUMBER OF SIMILAR PBIs ACCOMPLISHED;RETURN ON INVESTMENT;LEVEL OF IMPACT ON BRAND OR REPUTATION;LEVEL OF COMPETITIVE ADVANTAGE;LEVEL OF  IMPORTANCE FOR MARKET (FROM SOCIAL);LEVEL OF  IMPORTANCE FOR MARKET (FROM INTERVIEWS);LEVEL OF IMPORTANCE FOR THE CUSTOMER;PRIORITY;PROJECT TYPE
+0;As a account holder, I want to deposit money on my account;2.0;1.0;5;1.0;3.0;1.0;1.0;0.0;1.0;0.0;0.0;3.0;3.0;2.0;3.0;BANK
+1;As a account holder, I want to have an adress book;1.0;1.0;1;0.5;1.0;2.0;4.0;0.0;3.0;0.0;0.0;3.0;1.0;1.0;3.0;BANK
+2;As a account holder, I want to make a wire transfer;5.0;1.0;4;2.0;3.0;3.0;5.0;0.0;1.0;0.0;0.0;4.0;4.0;2.0;5.0;BANK
+3;As a account holder, I want to make small payments without password;1.0;1.0;4;0.5;2.0;3.0;3.0;0.0;4.0;1.0;0.0;1.0;5.0;3.0;2.0;BANK
+4;As a account holder, I want to make the insurance for the car;2.0;1.0;5;5.0;3.0;3.0;4.0;0.0;5.0;1.0;1.0;3.0;3.0;2.0;5.0;BANK
+5;As a account holder, I want to reload my telephone credit from my account;3.0;1.0;1;2.0;3.0;3.0;4.0;0.0;5.0;1.0;1.0;2.0;2.0;0.0;3.0;BANK
+6;As a account holder, I want to see the latest payments;1.0;1.0;2;0.3;2.0;2.0;3.0;0.0;2.0;0.0;0.0;5.0;3.0;2.0;1.0;BANK
+7;As a account holder, I want to transfer money from one of mine account to another;2.0;1.0;4;0.5;3.0;3.0;4.0;0.0;1.0;0.0;0.0;4.0;3.0;2.0;4.0;BANK
+8;As a bank cashier, I want to deposit money on customers account;5.0;1.0;4;1.0;3.0;1.0;3.0;0.0;1.0;0.0;0.0;3.0;5.0;2.0;3.0;BANK
+9;As a bank cashier, I want to make MAV payment;4.0;1.0;3;2.0;2.0;2.0;3.0;0.0;3.0;0.0;0.0;1.0;1.0;2.0;1.0;BANK
+10;As a bank cashier, I want to make transfers of money from one account to another;2.0;1.0;6;0.5;3.0;2.0;4.0;0.0;1.0;0.0;0.0;3.0;5.0;2.0;4.0;BANK
+11;As a bank cashier, I want to make withdrawals for customers;4.0;1.0;2;2.0;3.0;2.0;2.0;0.0;1.0;0.0;0.0;2.0;2.0;2.0;1.0;BANK
+12;As a bank cashier, I want to pay bank checks;4.0;1.0;1;2.0;3.0;1.0;2.0;0.0;1.0;0.0;0.0;5.0;1.0;2.0;5.0;BANK
+13;As a bank cashier, I want to provide the account statement to the customer;5.0;1.0;5;0.3;2.0;2.0;2.0;0.0;1.0;0.0;0.0;3.0;4.0;2.0;3.0;BANK
+14;As a bank manager, I want to assign a task to an employee;2.0;1.0;4;6.0;4.0;1.0;4.0;0.0;4.0;1.0;1.0;5.0;4.0;2.0;5.0;BANK
+15;As a bank manager, I want to check  mortgage proposals;1.0;1.0;3;4.0;5.0;2.0;5.0;0.0;5.0;1.0;0.0;3.0;3.0;1.0;4.0;BANK
+16;As a bank manager, I want to check financing proposals;5.0;1.0;1;4.0;5.0;2.0;5.0;0.0;5.0;1.0;0.0;1.0;3.0;1.0;4.0;BANK
+17;As a bank manager, I want to check loans proposals;2.0;1.0;2;4.0;5.0;2.0;2.0;0.0;5.0;1.0;0.0;1.0;1.0;1.0;3.0;BANK
+18;As a bank manager, I want to check the advisories and validate them;1.0;1.0;6;4.0;5.0;1.0;3.0;0.0;5.0;1.0;0.0;1.0;1.0;1.0;3.0;BANK
+19;As a bank manager, I want to communicate quickly and efficiently with my employees;5.0;1.0;3;10.0;5.0;1.0;4.0;0.0;5.0;1.0;1.0;1.0;2.0;0.0;5.0;BANK
+20;As a bank manager, I want to granting and revoking overdrafts;4.0;1.0;1;2.0;5.0;2.0;4.0;0.0;2.0;0.0;0.0;4.0;4.0;2.0;4.0;BANK
+21;As a bank manager, I want to make the business goals report;5.0;1.0;4;3.0;4.0;1.0;2.0;0.0;3.0;0.0;0.0;3.0;5.0;1.0;2.0;BANK
+22;As a bank manager, I want to to monitor the bank's economic status;5.0;1.0;2;1.0;2.0;3.0;1.0;0.0;1.0;0.0;0.0;2.0;3.0;2.0;1.0;BANK
+23;As a financial advisor, I want to check the status of investments;5.0;1.0;5;4.0;4.0;3.0;2.0;0.0;4.0;0.0;0.0;1.0;3.0;2.0;3.0;BANK
+24;As a financial advisor, I want to create a profile for the client;3.0;1.0;3;3.0;3.0;1.0;4.0;0.0;3.0;0.0;0.0;3.0;2.0;2.0;3.0;BANK
+25;As a financial advisor, I want to create a project based on the customer's goals;3.0;1.0;4;7.0;4.0;3.0;5.0;0.0;5.0;0.0;0.0;1.0;4.0;2.0;3.0;BANK
+26;As a financial advisor, I want to monitor financial stock market performance;3.0;1.0;4;9.0;3.0;1.0;2.0;0.0;2.0;1.0;1.0;4.0;2.0;0.0;2.0;BANK
+27;As a financial advisor, I want to make an investment;5.0;1.0;3;10.0;3.0;2.0;4.0;0.0;1.0;0.0;0.0;5.0;1.0;2.0;4.0;BANK
+28;As a investor, I want to check my wallet;1.0;1.0;6;0.3;1.0;2.0;4.0;0.0;1.0;0.0;0.0;1.0;3.0;2.0;3.0;BANK
+29;As a investor, I want to create a deposit account;4.0;1.0;3;2.0;2.0;1.0;5.0;0.0;1.0;0.0;0.0;5.0;3.0;2.0;2.0;BANK
+30;As a investor, I want to cancel my investment;1.0;1.0;4;5.0;3.0;3.0;5.0;0.0;1.0;0.0;0.0;2.0;1.0;2.0;1.0;BANK
+31;As a investor, I want to invest in bank bonds;1.0;1.0;2;6.0;4.0;2.0;1.0;0.0;2.0;0.0;0.0;4.0;5.0;1.0;3.0;BANK
+32;As a investor, I want to invest in government bonds;5.0;1.0;6;6.0;4.0;2.0;2.0;0.0;2.0;0.0;0.0;1.0;1.0;2.0;1.0;BANK
+33;As a investor, I want to invest in real estate funds;2.0;1.0;3;6.0;4.0;2.0;3.0;0.0;2.0;0.0;0.0;1.0;3.0;2.0;1.0;BANK
+34;As a investor, I want to see money earned and lost;1.0;1.0;6;1.0;4.0;2.0;2.0;0.0;3.0;0.0;0.0;3.0;2.0;2.0;2.0;BANK
+35;As a new banking client, I want to have support 24/7 (chatbot);1.0;1.0;3;5.0;5.0;1.0;1.0;0.0;4.0;2.0;2.0;3.0;2.0;0.0;4.0;BANK
+36;As a new banking client, I want to log in to my account in a safety mode;3.0;1.0;2;3.0;5.0;1.0;1.0;0.0;1.0;2.0;2.0;5.0;5.0;2.0;5.0;BANK
+37;As a new banking client, I want to open an account;5.0;1.0;4;2.0;3.0;1.0;4.0;0.0;1.0;0.0;0.0;1.0;1.0;2.0;2.0;BANK
+38;As a risk manager, I want to check all the processes to find some risks;3.0;1.0;2;20.0;5.0;3.0;1.0;0.0;4.0;2.0;1.0;3.0;4.0;2.0;3.0;BANK
+39;As a risk manager, I want a machine learning model that helps me prevent fraud;3.0;1.0;4;20.0;5.0;1.0;2.0;0.0;5.0;2.0;2.0;2.0;4.0;2.0;5.0;BANK
+40;As a risk manager, I want to implement security processes;2.0;1.0;5;10.0;5.0;3.0;1.0;0.0;4.0;1.0;1.0;5.0;1.0;2.0;3.0;BANK
+41;As a risk manager, I want to make a reports about major risks;4.0;1.0;4;2.0;2.0;2.0;3.0;0.0;3.0;0.0;0.0;4.0;3.0;1.0;1.0;BANK
+42;As a cinema cashier, I want to sell a ticket to a client;4.0;1.0;1;1.0;2.0;2.0;1.0;0.0;1.0;0.0;0.0;1.0;5.0;2.0;1.0;CINEMA
+43;As a cinema cashier, I want to book a sit place for a client;2.0;1.0;5;1.0;2.0;2.0;4.0;0.0;1.0;0.0;0.0;5.0;2.0;2.0;1.0;CINEMA
+44;As a cinema client, I want to book a sit place for a movie;4.0;1.0;1;1.0;2.0;2.0;3.0;0.0;4.0;0.0;0.0;4.0;2.0;2.0;2.0;CINEMA
+45;As a cinema client, I want to buy a ticket for a movie;2.0;1.0;2;1.5;3.0;2.0;1.0;0.0;4.0;0.0;0.0;4.0;2.0;2.0;3.0;CINEMA
+46;As a cinema client, I wanto to have a movie recommender system;5.0;1.0;2;10.0;1.0;2.0;3.0;0.0;5.0;2.0;2.0;1.0;3.0;0.0;4.0;CINEMA
+47;As a cinema client, I wanto to see the trailer and a plot of a movie;5.0;1.0;2;0.2;1.0;1.0;5.0;0.0;1.0;0.0;0.0;2.0;5.0;1.0;2.0;CINEMA
+48;As a cinema manager, I want to insert a new movie;3.0;1.0;3;0.2;1.0;1.0;5.0;0.0;1.0;0.0;0.0;5.0;2.0;2.0;5.0;CINEMA
+49;As a cinema manager, I want to remove a movie;4.0;1.0;5;0.2;1.0;2.0;2.0;0.0;1.0;0.0;0.0;4.0;1.0;2.0;1.0;CINEMA
+50;As a cinema manager, I want to remove an unpaid reservation up to three hours before the movie starts;1.0;1.0;3;1.0;2.0;3.0;5.0;0.0;4.0;0.0;0.0;1.0;1.0;2.0;2.0;CINEMA
+51;As a administrative officer, I want to make a report on extra salary and contribution calculations;4.0;1.0;2;3.0;4.0;2.0;3.0;0.0;5.0;0.0;0.0;2.0;2.0;1.0;1.0;COMPANY
+52;As an administrator, I want to use a dashboard to control payments made to suppliers;2.0;1.0;3;25.0;5.0;1.0;3.0;2.0;3.0;0.0;0.0;3.0;1.0;0.0;4.0;COMPANY
+53;As a ceo, I want to check the status of completing our business goals;4.0;1.0;6;30.0;2.0;3.0;4.0;1.0;3.0;0.0;0.0;2.0;2.0;2.0;2.0;COMPANY
+54;As a ceo, I want to make the business goals report;5.0;1.0;5;4.0;1.0;3.0;3.0;1.0;1.0;0.0;0.0;4.0;2.0;2.0;3.0;COMPANY
+55;As a ceo, I want to post business goals report in our knoledge management database;3.0;1.0;4;1.0;5.0;1.0;5.0;0.0;2.0;0.0;0.0;2.0;1.0;2.0;5.0;COMPANY
+56;As a ceo, I want to send an automatic email to all the participants whenever we schedule a board meeting;3.0;1.0;4;15.0;1.0;1.0;1.0;1.0;4.0;0.0;0.0;1.0;3.0;1.0;3.0;COMPANY
+57;As a ceo, I want to use a dashborad to navigate our knowledge management database;3.0;1.0;4;50.0;3.0;1.0;2.0;0.0;1.0;0.0;0.0;3.0;4.0;2.0;5.0;COMPANY
+58;As a company's accountant, I want to see a dashboard to manage accounting;1.0;1.0;1;50.0;5.0;2.0;1.0;0.0;5.0;0.0;1.0;4.0;3.0;2.0;5.0;COMPANY
+59;As a company's employee, I want to indicate the problems encountered during the work;1.0;1.0;6;10.0;2.0;1.0;1.0;0.0;2.0;1.0;1.0;1.0;5.0;0.0;4.0;COMPANY
+60;As a company's employee, I want to monitor the hours worked every month;5.0;1.0;5;2.0;1.0;1.0;5.0;0.0;1.0;0.0;0.0;2.0;4.0;1.0;3.0;COMPANY
+61;As a company's employee, I want to know if jobs are paid as extra;5.0;1.0;3;1.0;1.0;1.0;1.0;0.0;3.0;0.0;0.0;4.0;2.0;0.0;1.0;COMPANY
+62;As a coo, I want to check the status of completing our operational tasks;4.0;1.0;5;5.0;3.0;2.0;1.0;1.0;3.0;0.0;0.0;4.0;3.0;2.0;4.0;COMPANY
+63;As a purchasing manager, I want to check the stocks before making a purchase;4.0;1.0;2;3.0;3.0;1.0;1.0;0.0;3.0;0.0;0.0;2.0;3.0;1.0;3.0;COMPANY
+64;As a quality manager, I want to have a dashboard that help me to create a quality plan;2.0;1.0;2;15.0;5.0;3.0;2.0;0.0;5.0;1.0;1.0;1.0;1.0;2.0;4.0;COMPANY
+65;As a quality manager, I want to check the actvity in all the department from my laptop;1.0;1.0;4;20.0;5.0;3.0;1.0;0.0;5.0;1.0;0.0;4.0;5.0;2.0;5.0;COMPANY
+66;As a sales manager, I want to digitize the contracts;1.0;1.0;2;3.0;3.0;1.0;1.0;0.0;1.0;0.0;0.0;4.0;5.0;2.0;3.0;COMPANY
+67;As a sales manager, I want to see the contracts closed;2.0;1.0;1;1.0;1.0;2.0;4.0;0.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;COMPANY
+68;As a sales manager, I want to see the contracts still open;3.0;1.0;1;1.0;2.0;2.0;1.0;0.0;2.0;0.0;0.0;5.0;1.0;1.0;1.0;COMPANY
+69;As a parent, I want to be notified if my child is not present in the classroom;5.0;1.0;4;3.0;3.0;1.0;3.0;0.0;4.0;1.0;0.0;3.0;4.0;1.0;3.0;SCHOOL
+70;As a parent, I want to check my son' school grades;1.0;2.0;3;5.0;1.0;1.0;3.0;0.0;3.0;0.0;0.0;3.0;3.0;1.0;3.0;SCHOOL
+71;As a student, I want to check my school grades and the average ;2.0;2.0;5;5.0;1.0;2.0;2.0;0.0;3.0;0.0;0.0;5.0;5.0;1.0;4.0;SCHOOL
+72;As a student, I want to check the weekly lesson schedule;1.0;2.0;6;1.0;2.0;1.0;2.0;0.0;1.0;0.0;0.0;4.0;2.0;0.0;3.0;SCHOOL
+73;As a headmaster, I want to check the presence of professors;3.0;1.0;1;4.0;4.0;1.0;5.0;0.0;3.0;0.0;0.0;5.0;5.0;0.0;5.0;SCHOOL
+74;As a headmaster, I want to be notified if a student is particularly bad in some subject;4.0;1.0;5;9.0;2.0;3.0;2.0;0.0;5.0;1.0;0.0;4.0;1.0;1.0;2.0;SCHOOL
+75;As a headmaster, I want to notify the professors about issuing a new notice;4.0;3.0;1;9.0;3.0;1.0;5.0;1.0;2.0;0.0;0.0;3.0;4.0;0.0;4.0;SCHOOL
+76;As headmaster, I want to check the presence of the staff;2.0;1.0;2;4.0;4.0;1.0;4.0;0.0;2.0;0.0;0.0;4.0;1.0;0.0;1.0;SCHOOL
+77;As a secretary, I want to check students enrollments;1.0;2.0;4;15.0;5.0;1.0;2.0;0.0;1.0;0.0;0.0;4.0;5.0;2.0;4.0;SCHOOL
+78;As a secretary, I want to manage the permissions of professors and staff;2.0;1.0;5;15.0;4.0;3.0;2.0;0.0;1.0;0.0;0.0;4.0;1.0;0.0;1.0;SCHOOL
+79;As a student, I want to be notified if there are extra-curricular events to whom I can attend;1.0;1.0;3;5.0;3.0;1.0;2.0;0.0;4.0;0.0;0.0;3.0;2.0;1.0;3.0;SCHOOL
+80;As secretary, I want to publish extra-curricular events and projects;2.0;2.0;5;4.0;3.0;1.0;1.0;0.0;1.0;0.0;0.0;4.0;5.0;1.0;4.0;SCHOOL
+81;As a custodian, I want to be notified through the app if there are extra hours to cover;5.0;1.0;2;16.0;4.0;1.0;2.0;0.0;5.0;0.0;1.0;5.0;2.0;2.0;3.0;SCHOOL
+82;As a professor, I want to include requests for didactic equipment;1.0;2.0;1;8.0;3.0;1.0;2.0;0.0;1.0;0.0;0.0;5.0;4.0;1.0;5.0;SCHOOL
+83;As a headmaster, I want to handle requests for new equipment based on the priorities and the funds available;3.0;1.0;1;10.0;4.0;3.0;4.0;0.0;3.0;0.0;0.0;1.0;2.0;2.0;1.0;SCHOOL
+84;As a student, I want to be notified if the time is delayed or anticipated;1.0;1.0;4;9.0;2.0;2.0;2.0;0.0;4.0;1.0;0.0;3.0;2.0;0.0;2.0;SCHOOL
+85;As a student, I want to check the dates of the last year's exams;2.0;1.0;2;1.0;1.0;1.0;5.0;0.0;1.0;0.0;0.0;1.0;4.0;0.0;3.0;SCHOOL
+86;As a custodian, I want to know the amount of extraordinary hours made;2.0;1.0;2;2.0;2.0;2.0;1.0;0.0;3.0;0.0;0.0;2.0;4.0;1.0;2.0;SCHOOL
+87;As a parent, I want to know the professor's reception time ;5.0;2.0;3;2.0;1.0;1.0;2.0;0.0;1.0;0.0;0.0;5.0;4.0;2.0;2.0;SCHOOL
+88;As a parent, I want to know the list of books to buy for the new year;4.0;1.0;4;3.0;1.0;2.0;1.0;0.0;1.0;0.0;0.0;3.0;1.0;2.0;1.0;SCHOOL
+89;As a secretary, I want to publish the list of books required by professors for their courses;5.0;2.0;4;5.0;1.0;1.0;1.0;0.0;1.0;0.0;0.0;5.0;3.0;2.0;4.0;SCHOOL
+90;As a professor, I want to build a virtual classroom to share the meterial of lesson;4.0;2.0;4;35.0;5.0;1.0;1.0;0.0;5.0;2.0;2.0;3.0;1.0;2.0;5.0;SCHOOL
+91;As a student, I want to have a virtual diary shared with my classmates to be up to date on the tasks to be done;2.0;1.0;2;20.0;4.0;2.0;3.0;0.0;5.0;2.0;1.0;3.0;3.0;2.0;5.0;SCHOOL
+92;As a student, I want to know what point of the program we have arrived;3.0;1.0;6;5.0;3.0;1.0;1.0;0.0;2.0;0.0;0.0;5.0;1.0;0.0;1.0;SCHOOL
+93;As a student, I want to have a forum in the virtual classroom in which to discuss any doubts;4.0;1.0;3;10.0;5.0;3.0;5.0;0.0;5.0;1.0;1.0;1.0;3.0;2.0;5.0;SCHOOL
+94;As a professor, I want to be notified if a student opens a discussion on the forum;2.0;1.0;2;4.0;3.0;3.0;5.0;0.0;4.0;1.0;0.0;3.0;2.0;1.0;3.0;SCHOOL
+95;As a professor, I want to be notified if extraordinary class councils are organized;1.0;1.0;5;5.0;2.0;1.0;4.0;1.0;3.0;0.0;0.0;2.0;1.0;0.0;3.0;SCHOOL
+96;As a professor, I want to submit a feedback questionnaire about the course to students;4.0;1.0;5;1.0;2.0;2.0;5.0;0.0;2.0;0.0;0.0;2.0;2.0;2.0;3.0;SCHOOL
+97;As a student, I want to have permission to attend the lessons remotely on sick days;3.0;1.0;2;15.0;5.0;1.0;1.0;0.0;5.0;2.0;2.0;4.0;2.0;0.0;4.0;SCHOOL
+98;As a professor, I want to create trivial quizzes to be sent to students for educational fun;5.0;1.0;1;1.0;2.0;2.0;3.0;0.0;5.0;1.0;1.0;3.0;4.0;1.0;4.0;SCHOOL
+99;As a market cashier, I want to accept an order;3.0;2.0;3;7.0;2.0;1.0;4.0;0.0;1.0;0.0;0.0;2.0;3.0;2.0;3.0;SUPERMAKET
+100;As a market cashier, I want to be notified of incoming orders;3.0;3.0;4;3.0;1.0;1.0;2.0;0.0;1.0;0.0;0.0;4.0;5.0;2.0;5.0;SUPERMAKET
+101;As a market client, I want to be notified of the offers;1.0;3.0;3;5.0;3.0;1.0;5.0;0.0;3.0;1.0;0.0;1.0;4.0;0.0;4.0;SUPERMAKET
+102;As a market client, I want to collect loyalty points;1.0;1.0;2;2.0;2.0;1.0;2.0;0.0;4.0;0.0;0.0;2.0;4.0;2.0;1.0;SUPERMAKET
+103;As a market client, I want to to book my purchases;3.0;2.0;6;10.0;4.0;1.0;3.0;1.0;5.0;2.0;0.0;5.0;2.0;2.0;5.0;SUPERMAKET
+104;As a market manager, I want to collect data from my suppliers;3.0;1.0;6;6.0;3.0;1.0;5.0;0.0;2.0;0.0;0.0;2.0;3.0;0.0;1.0;SUPERMAKET
+105;As a warehouseman, I want to have a dashborad to update the number of stocks in the warehouse;5.0;1.0;2;10.0;3.0;1.0;1.0;0.0;1.0;0.0;0.0;5.0;3.0;1.0;2.0;SUPERMAKET
+106;As a warehouseman, I want to see where the products are located;1.0;2.0;2;10.0;5.0;1.0;3.0;0.0;4.0;1.0;1.0;1.0;2.0;1.0;5.0;SUPERMAKET
+107;As a warehouseman, I want to indicate the lack of stock for a product;4.0;1.0;4;4.0;2.0;1.0;1.0;0.0;1.0;0.0;0.0;3.0;5.0;1.0;2.0;SUPERMAKET
+108;As a bechelor's student, I want to know the professor's reception time ;1.0;2.0;3;2.0;1.0;1.0;4.0;0.0;1.0;0.0;0.0;3.0;3.0;2.0;3.0;UNIVERSITY
+109;As a bechelor's student, I want to accept or refuse the examination;4.0;2.0;3;6.0;3.0;3.0;2.0;0.0;5.0;0.0;0.0;1.0;1.0;2.0;3.0;UNIVERSITY
+110;As a bechelor's student, I want to book a book from the library;1.0;2.0;4;9.0;2.0;2.0;2.0;0.0;3.0;0.0;0.0;5.0;3.0;2.0;3.0;UNIVERSITY
+111;As a bechelor's student, I want to book a place in the library;3.0;2.0;2;9.0;3.0;1.0;5.0;1.0;1.0;0.0;0.0;3.0;2.0;0.0;4.0;UNIVERSITY
+112;As a bechelor's student, I want to enter career plan;4.0;1.0;1;4.0;4.0;3.0;1.0;0.0;5.0;0.0;0.0;3.0;2.0;2.0;1.0;UNIVERSITY
+113;As a bechelor's student, I want to  book for the exams;5.0;2.0;5;4.0;2.0;2.0;2.0;0.0;5.0;0.0;0.0;5.0;1.0;2.0;5.0;UNIVERSITY
+114;As a bechelor's student, I want to insert my thesis;1.0;1.0;6;5.0;3.0;1.0;1.0;0.0;3.0;0.0;0.0;4.0;5.0;1.0;1.0;UNIVERSITY
+115;As a bechelor's student, I want to know in which classroom the various courses will take place;1.0;2.0;1;5.0;4.0;1.0;4.0;0.0;3.0;0.0;0.0;5.0;4.0;0.0;5.0;UNIVERSITY
+116;As a bechelor's student, I want to know in wich classroom the various exams will take place;5.0;1.0;3;5.0;4.0;2.0;4.0;0.0;3.0;0.0;0.0;1.0;3.0;2.0;3.0;UNIVERSITY
+117;As a bechelor's student, I want to know the free classrooms;1.0;1.0;3;5.0;4.0;1.0;4.0;0.0;3.0;0.0;0.0;5.0;3.0;0.0;4.0;UNIVERSITY
+118;As a bechelor's student, I want to know where the professor's offices are located;1.0;2.0;2;3.0;2.0;2.0;4.0;0.0;1.0;0.0;0.0;1.0;4.0;0.0;3.0;UNIVERSITY
+119;As a bechelor's student, I want to see booklet;1.0;2.0;1;6.0;1.0;2.0;5.0;0.0;2.0;0.0;0.0;3.0;2.0;2.0;5.0;UNIVERSITY
+120;As a library manager, I want to manage book booking;5.0;1.0;3;20.0;5.0;1.0;1.0;1.0;3.0;0.0;0.0;3.0;1.0;2.0;2.0;UNIVERSITY
+121;As a library manager, I want to manage university library database;5.0;1.0;4;23.0;5.0;1.0;1.0;0.0;3.0;0.0;0.0;4.0;1.0;2.0;1.0;UNIVERSITY
+122;As a library manager, I want to request new books;4.0;2.0;4;6.0;3.0;1.0;1.0;0.0;3.0;0.0;0.0;4.0;4.0;2.0;4.0;UNIVERSITY
+123;As a library manager, I want to urge students who are late with the delivery of books;2.0;3.0;5;15.0;4.0;3.0;2.0;0.0;4.0;1.0;0.0;3.0;2.0;1.0;5.0;UNIVERSITY
+124;As a master's student, I want to accept or refuse the examination;3.0;1.0;2;6.0;3.0;3.0;4.0;0.0;5.0;0.0;0.0;4.0;5.0;2.0;3.0;UNIVERSITY
+125;As a master's student, I want to access information about my bechelor's degree;3.0;1.0;4;4.0;2.0;2.0;1.0;0.0;3.0;0.0;0.0;5.0;4.0;2.0;1.0;UNIVERSITY
+126;As a master's student, I want to book a book from the library;1.0;2.0;4;9.0;2.0;2.0;5.0;0.0;3.0;0.0;0.0;4.0;4.0;2.0;3.0;UNIVERSITY
+127;As a master's student, I want to book a place in the library;1.0;2.0;6;9.0;3.0;1.0;3.0;1.0;1.0;0.0;0.0;5.0;5.0;0.0;4.0;UNIVERSITY
+128;As a master's student, I want to book for the exams;3.0;2.0;2;4.0;2.0;2.0;2.0;0.0;5.0;0.0;0.0;4.0;1.0;2.0;5.0;UNIVERSITY
+129;As a master's student, I want to enter career plan;3.0;1.0;6;4.0;4.0;3.0;1.0;0.0;5.0;0.0;0.0;1.0;2.0;2.0;1.0;UNIVERSITY
+130;As a master's student, I want to insert my thesis;1.0;1.0;5;5.0;3.0;1.0;1.0;0.0;3.0;0.0;0.0;5.0;4.0;1.0;1.0;UNIVERSITY
+131;As a master's student, I want to know in which classroom the various courses will take place;1.0;2.0;3;5.0;4.0;1.0;2.0;0.0;3.0;0.0;0.0;4.0;3.0;0.0;5.0;UNIVERSITY
+132;As a master's student, I want to know the free classrooms;4.0;1.0;5;5.0;4.0;1.0;4.0;0.0;3.0;0.0;0.0;1.0;4.0;0.0;4.0;UNIVERSITY
+133;As a master's student, I want to know where the professor's offices are located;3.0;2.0;4;3.0;2.0;2.0;5.0;0.0;1.0;0.0;0.0;3.0;4.0;0.0;3.0;UNIVERSITY
+134;As a master's student, I want to know the professor's reception time ;3.0;2.0;5;2.0;1.0;1.0;3.0;0.0;1.0;0.0;0.0;4.0;2.0;2.0;3.0;UNIVERSITY
+135;As a master's student, I want to see booklet;3.0;2.0;4;6.0;1.0;2.0;5.0;0.0;2.0;0.0;0.0;1.0;3.0;2.0;5.0;UNIVERSITY
+136;As a master's student, I wanto to know in which classroom the various exams will take place ;3.0;1.0;1;5.0;4.0;2.0;3.0;0.0;3.0;0.0;0.0;4.0;2.0;2.0;3.0;UNIVERSITY
+137;As a professor, I want to enter exam dates;2.0;1.0;2;20.0;2.0;1.0;3.0;0.0;3.0;0.0;0.0;4.0;2.0;2.0;5.0;UNIVERSITY
+138;As a professor, I want to insert exam results;3.0;1.0;4;7.0;1.0;1.0;2.0;0.0;3.0;0.0;0.0;1.0;1.0;2.0;1.0;UNIVERSITY
+139;As a professor, I want to insert material for students;1.0;2.0;6;15.0;4.0;1.0;4.0;0.0;5.0;1.0;0.0;3.0;5.0;1.0;5.0;UNIVERSITY
+140;As a professor, I want to insert my publications;3.0;1.0;4;15.0;4.0;1.0;4.0;0.0;4.0;1.0;0.0;2.0;2.0;1.0;2.0;UNIVERSITY
+141;As a professor, I want to insert syllabus course;5.0;2.0;4;4.0;1.0;1.0;5.0;0.0;3.0;0.0;0.0;1.0;1.0;2.0;5.0;UNIVERSITY
+142;As a professor, I want to publish my contacts;2.0;1.0;2;1.0;1.0;1.0;4.0;0.0;1.0;0.0;0.0;3.0;3.0;2.0;3.0;UNIVERSITY
+143;As a secretary employee, I want to manage career plans of the students;1.0;1.0;4;30.0;5.0;1.0;1.0;0.0;5.0;0.0;0.0;1.0;4.0;2.0;1.0;UNIVERSITY
+144;As a secretary employee, I want to manage classrooms booking;2.0;1.0;5;30.0;5.0;1.0;3.0;0.0;3.0;1.0;0.0;2.0;5.0;2.0;5.0;UNIVERSITY
+145;As a secretary employee, I want to manage internationalization exchanges;2.0;1.0;5;40.0;5.0;1.0;2.0;0.0;5.0;1.0;1.0;4.0;2.0;1.0;3.0;UNIVERSITY
+146;As a secretary employee, I want to manage student enrollment ;3.0;2.0;3;17.0;5.0;1.0;3.0;0.0;3.0;0.0;0.0;4.0;2.0;2.0;4.0;UNIVERSITY
+147;As a secretary employee, I want to publish exam calendar;4.0;2.0;5;4.0;3.0;1.0;5.0;0.0;5.0;0.0;0.0;5.0;2.0;2.0;5.0;UNIVERSITY
+148;As a secretary employee, I want to publish informative alerts;4.0;2.0;4;6.0;2.0;1.0;2.0;0.0;1.0;0.0;0.0;3.0;4.0;1.0;3.0;UNIVERSITY
+149;As a secretary employee, I want to manage graduation sessions;3.0;1.0;4;16.0;5.0;1.0;5.0;0.0;2.0;0.0;0.0;1.0;1.0;2.0;4.0;UNIVERSITY
